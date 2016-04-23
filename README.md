@@ -8,7 +8,7 @@ Due to time constraints, personal life matters, and general frustrations with th
 All code and assets are released under the Arma [(APL-SA)](https://www.bistudio.com/community/licenses/arma-public-license-share-alike) license.
 
 ## Links
-[iBuild Website](https://ibuildmod.wordpress.com)
-[Twitter](https://twitter.com/JustOscarMike)
-[Facebook](https://www.facebook.com/justoscarmike)
-[YouTube](https://www.youtube.com/channel/UCntU4He2gABqnwadWq_lxIw)
++ [iBuild Website](https://ibuildmod.wordpress.com)
++ [Twitter](https://twitter.com/JustOscarMike)
++ [Facebook](https://www.facebook.com/justoscarmike)
++ [YouTube](https://www.youtube.com/channel/UCntU4He2gABqnwadWq_lxIw)
