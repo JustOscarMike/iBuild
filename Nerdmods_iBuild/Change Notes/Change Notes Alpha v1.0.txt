@@ -1,0 +1,75 @@
+iBuild Alpha v1.0 Change Notes...
+
+Key Bind Tweaks:
+- 'Use Action 1' is now used to perform iBuild actions and module selection.
+- 'Use Action 1' + SHIFT  is now used to open introduction GUI.
+- 'Use Action 2' is now used to show/hide plot boundary.
+
+Additions:
+- Added the ability to configure iBuild via the missions description.ext > Mission Config:
+- Added the ability to change the default custom controls id's.
+- Added the ability to set the default plot size.
+- Added the ability to change the default iniDBI database save frequency.
+- Added the ability to set a custom list of item class-names to use.
+- Added a new Introduction GUI.
+- Added a new module selection GUI.
+- Added 4 new items: Plot Lease, Scrap Metal, Wood Planks, Wood Nails.
+- Added new land plots mechanic, construction materials, and workbench.
+- Added new ladders module.
+- Added new barricaded window module.
+- Added new generic door module.
+- Added new generic garage module.
+- Added new workbench module.
+- Added instruction messages to keypad GUI.
+- Garage doors can now be stacked to open/close in unison. (Only works with 2 stacked garages)
+- Added new database functions for manual control of how iBuild modules are saved to your servers database.
+- Added stringtable.xml for translations.
+- Added ability to replace modules.
+- Added support for custom made modules.
+- Added new 'NMIB_fnc_DbGetPlot' database function.
+- Added new 'NMIB_fnc_DbGetPlotId' database function.
+- Added new 'NMIB_fnc_DbGetPos' database function.
+- Added new 'NMIB_fnc_DbGetDir' database function.
+- Added new 'NMIB_fnc_DbGetVars' database function.
+- Added new 'NMIB_fnc_DbSpawnModule' database function.
+
+Fixes & Tweaks:
+- Re-organised file structure and cleaned some things up.
+- Completely new module placement code that is more robust.
+- Reworked & re-textured all modules.
+- Temporarily removed ramp modules. (Undergoing a redesign)
+- Removed pillared floor variant. (May be reintroduced in the future)
+- Construction now requires building materials, a land plot, and access to it's associated workbench.
+- Improved design of keypad GUI.
+- Improved the way iBuild handles custom controls.
+- Optimised the way iBuild handles module variations.
+
+- Reworked placement HUD.
+  - Removed construction time bar from top of screen.
+  - Removed info from top left of screen.
+  - Added constructable count of selected module. (Calculated from resource items currently in workbench)
+
+- Changed construction time bar from 2D to 3D.
+- Other general fixes and tweaks.
+- Changed the way module placement direction is handled.
+- Player is no longer required to hold his/her position whilst constructing a module.
+- Player must now be within 4 metres of current placement position to construct module.
+- Player can no longer shoot weapon whilst in construction mode.
+- Tweaked ghost state colours. (Good = Green, Bad = Red, Replace = Purple)
+- Improved construction time mechanic.
+- Updated iniDBI database saving to work with new features.
+
+Debug Tweaks:
+- Set construction time for all modules to 1 second.
+- Removed 'delete module' key.
+- Removed 'insta-build module' key.
+
+Known issues:
+- Texture clipping on some placement ghosts.
+- Foundation placement rules can sometimes be over sensitive.
+- Collision & fire geometry is off a little on some modules.
+- All modules are penetrable.
+- Possible some bugs that were fixed in previous updates are present again. (Report any bugs).
+
+Dev Note:
+Full documentation for each feature will be written in due course.

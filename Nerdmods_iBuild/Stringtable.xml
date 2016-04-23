@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Edited with tabler - 2015-03-18 -->
+<Project name="NerdMods iBuild">
+  <Package name="Alpha">
+    <Container name="Info">
+      <Key ID="STR_NMIB_Version">
+        <Original>Alpha v1.0.1</Original>
+      </Key>
+      <Key ID="STR_NMIB_HUD">
+        <Original>&lt;img align='center' shadow='0' size='6' image='NerdMods_iBuild\NMIB_Images\iBuild_Logo.paa'/&gt;&lt;br/&gt;&lt;t align='center' shadow='0' size='1.5' font = 'puristaLight' &gt;v1.0.1&lt;/t&gt;</Original>
+      </Key>
+      <Key ID="STR_NMIB_MenuCount">
+        <Original>3</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu1">
+        <Original>About iBuild</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu2">
+        <Original>Controls</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu3">
+        <Original>The Basics</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu4">
+        <Original>Materials</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu5">
+        <Original>Land Plots</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu6">
+        <Original>Workbench</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu7">
+        <Original>Construction</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu1_Txt">
+        <Original>&lt;br/&gt;&lt;t size='1.5'&gt;GREETINGS, %1!&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;&lt;t size='1.2'&gt;Welcome to the iBuild modification for ArmA 3&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;iBuild is a standalone modification that aims to bring smart, intuitive, and user friendly construction mechanics to the ArmA series. It allows for precise construction of modular buildings by utilising an intelligent snap mechanic, along with objects that are explicitly designed to fit seamlessly together.&lt;br/&gt;&lt;br/&gt;iBuild has been featured on Rock Paper Shotgun, PC Gamer, and has been selected as one of the Make Arma Not War contest finalists.&lt;br/&gt;&lt;br/&gt;“Totally unexpected so I’m truly grateful!" - NerdMod&lt;br/&gt;&lt;br/&gt;&lt;t size='1.5'&gt;BEFORE YOU BEGIN&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;&lt;t size='1.2'&gt;CONTROLS&lt;/t&gt;&lt;br/&gt;iBuild utilises custom user keys to perform certain actions. However, due to the nature of Arma 3, you are required to bind these keys manually. Navigate to controls via the menu to the left for more info.&lt;br/&gt;&lt;br/&gt;&lt;t size='1.2'&gt;EVERYTHING iBUILD&lt;/t&gt;&lt;br/&gt;To learn the basics of how iBuild works, you can browse through the navigation menu to the left, or visit the &lt;a href='https://ibuildmod.wordpress.com/'&gt;official iBuild website.&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;t size='1.6'&gt;THANK YOU!&lt;/t&gt;&lt;br/&gt;- NerdMod -</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu2_Txt">
+        <Original>Some Text!</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu3_Txt">
+        <Original>&lt;br/&gt;&lt;a href='http://ibuildmod.wordpress.com/the-basics'&gt;Click here to learn the basics of iBuild.&lt;/a&gt;&lt;br/&gt;[Opens website in external web browser]</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu4_Txt">
+        <Original>Some Text!</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu5_Txt">
+        <Original>&lt;br/&gt;&lt;t size='1.5'&gt;CLAIMING LAND&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;&lt;img size='8' image='Nerdmods_iBuild\NMIB_Items\UI\PlotLease_Icon.paa' /&gt;&lt;br/&gt;&lt;br/&gt;A plot of land is required before one can build, and each claimed plot is supplied with a workbench.&lt;br/&gt;&lt;br/&gt;Players can lay claim to any number of plots so long as they have the required items within their inventory during the claiming process.&lt;br/&gt;&lt;br/&gt;Plots can not be claimed over existing plots or buildings, and their circumference and height are determined by the missions author.&lt;br/&gt;&lt;br/&gt;To construct within a plot, you must first access it’s assigned workbench.&lt;br/&gt;&lt;br/&gt;
+Required: Lease, Wood, Nails&lt;br/&gt;
+Kind: Container&lt;br/&gt;
+Constructible: Yes&lt;br/&gt;
+Destructible: No&lt;br/&gt;
+Movable: No</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu6_Txt">
+        <Original>&lt;br/&gt;&lt;t size='1.5'&gt;PLOT WORKBENCH&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;&lt;img size='8' image='Nerdmods_iBuild\NMIB_Models\NMIB_Objects\UI\Workbench_Icon.paa' /&gt;&lt;br/&gt;&lt;br/&gt;Each plot has a workbench, and each workbench is tied to the plot of land it was assigned to.&lt;br/&gt;&lt;br/&gt;The workbench is used to store construction material items, and must be protected to prevent unauthorised players from constructing within its plot boundaries.&lt;br/&gt;&lt;br/&gt;Construction material items stored in the workbench are used to build modules within a plot.&lt;br/&gt;&lt;br/&gt;While iBuild mode is active, the required material items of the chosen module are taken from the workbench, and are only returned if the build process is cancelled.&lt;br/&gt;&lt;br/&gt;Required: Land Plot&lt;br/&gt;
+Kind: Container&lt;br/&gt;
+Constructible: No&lt;br/&gt;
+Destructible: No&lt;br/&gt;
+Movable: Yes</Original>
+      </Key>
+      <Key ID="STR_NMIB_Menu7_Txt">
+        <Original>WORK IN PROGRESS</Original>
+      </Key>
+    </Container>
+    <Container name="Setup Dialog">
+      <Key ID="STR_NMIB_Links">
+        <Original>&lt;img align='center' shadow='0' size='8' image='NerdMods_iBuild\NMIB_Images\iBuild_Logo.paa'/&gt;&lt;br/&gt;&lt;t shadow='0' size='1.4' font='PuristaLight' align='center'&gt;&lt;a color='#CCFF66' href='http://ibuildmod.wordpress.com'&gt;Official Site&lt;/a&gt;&lt;br/&gt;&lt;a href='http://steamcommunity.com/sharedfiles/filedetails/discussions/328806937'&gt;Forum&lt;/a&gt;&lt;br/&gt;&lt;a href='http://steamcommunity.com/workshop/filedetails/discussion/328806937/619568793955399283/'&gt;Bug Report&lt;/a&gt;&lt;br/&gt;&lt;a href='http://ibuildmod.wordpress.com/contact'&gt;Contact&lt;/a&gt;&lt;br/&gt;&lt;a href='http://ibuildmod.wordpress.com/credits'&gt;Credits&lt;/a&gt;&lt;/t&gt;</Original>
+      </Key>
+    </Container>
+  </Package>
+</Project>

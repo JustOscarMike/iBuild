@@ -1,0 +1,13 @@
+iBuild Alpha v1.0.1 Hotfix...
+
+Documentation (iBuild Website):
+- Updated "Install Guide" with new step: "#7 Configure iBuild via description.ext (optional):".
+- Made some slight improvements to "The Basics" guide.
+- Posted new guide & example mission on how to manually configure iBuild.
+
+Additions:
+- Added action to workbench to allow manual save of iBuild structures to database.
+
+Fixes & Tweaks:
+- Fixed database not saving & loading correctly.
+- Fixed issue with module placement not working correctly over water.
