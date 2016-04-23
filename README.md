@@ -12,3 +12,4 @@ All code and assets are released under the Arma [(APL-SA)](https://www.bistudio.
 + [Twitter](https://twitter.com/JustOscarMike)
 + [Facebook](https://www.facebook.com/justoscarmike)
 + [YouTube](https://www.youtube.com/channel/UCntU4He2gABqnwadWq_lxIw)
++ [Instagram](https://www.instagram.com/justoscarmike)
