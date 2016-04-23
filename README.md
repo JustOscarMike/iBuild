@@ -1,3 +1,5 @@
+![alt text](https://ibuildmod.files.wordpress.com/2014/10/official_ibuild_logo.png "iBuild Logo")
+
 # iBuild add-on for Arma 3
 Modular base building add-on for Bohemia Interactive's ArmA 3
 
