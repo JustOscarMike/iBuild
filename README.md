@@ -2,7 +2,7 @@
 Modular base building add-on for [Bohemia Interactive's](https://www.bistudio.com) [ArmA 3](https://www.bistudio.com/games/arma3)
 
 ## The Situation
-Due to time constraints, personal life matters, and general frustrations with the Arma engine. I've decided to release the iBuild source code to the Arma community so somebody can continue my work. But please do read and adhere to the license contained within this repository before you consider using it.
+Due to time constraints, personal life matters, and general frustrations with the Arma engine. I've decided to release the iBuild source code to the Arma community for anybody wanting to continue my work. But please do read and adhere to the license contained within this repository before you consider using it.
 
 ## The Last Build (v1.0.1)
 This was the last version I released back on the 22nd of March, 2015 under the alias of **Nerdmod Projects**.
