@@ -11,7 +11,6 @@ This was the last version I released back on the 22nd of March, 2015 under the a
 All code and assets are released under the Arma [(APL-SA)](https://www.bistudio.com/community/licenses/arma-public-license-share-alike) license.
 
 ## Links
-+ [iBuild Website](https://ibuildmod.wordpress.com)
-+ [Steam Workshop](http://steamcommunity.com/id/justoscarmike/myworkshopfiles)
-+ [Developer](https://about.me/JustOscarMike)
-<a href="https://about.me/JustOscarMike" target="_blank">Developer</a>
++ [iBuild Website](https://ibuildmod.wordpress.com){:target="_blank"}
++ [Steam Workshop](http://steamcommunity.com/id/justoscarmike/myworkshopfiles){:target="_blank"}
++ [Developer](https://about.me/JustOscarMike){:target="_blank"}
