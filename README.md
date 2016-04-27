@@ -12,8 +12,5 @@ All code and assets are released under the Arma [(APL-SA)](https://www.bistudio.
 
 ## Links
 + [iBuild Website](https://ibuildmod.wordpress.com)
-+ [Steam Workshop](http://steamcommunity.com/id/NerdMod/myworkshopfiles)
-+ [Twitter](https://twitter.com/JustOscarMike)
-+ [Facebook](https://www.facebook.com/justoscarmike)
-+ [YouTube](https://www.youtube.com/channel/UCntU4He2gABqnwadWq_lxIw)
-+ [Instagram](https://www.instagram.com/justoscarmike)
++ [Steam Workshop](http://steamcommunity.com/id/justoscarmike/myworkshopfiles)
++ [Developer](https://about.me/JustOscarMike)
